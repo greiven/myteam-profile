@@ -1,7 +1,7 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "Team profile generator github",
+  "description": "Team Profile Generator github",
   "main": "app.js",
   "directories": {
     "lib": "lib",
@@ -10,19 +10,22 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/greiven"
+    "url": "git+https://github.com/greiven/myteam-profile.git"
   },
   "keywords": [
-    "profile",
-    "github",
-    "team",
-    "web",
-    "developer"
+    "Profile",
+    "Team.",
+    "GitHub",
+    "Web"
   ],
-  "author": "Greivin Badilla",
-  "license": "ISC"
+  "author": "Greivin badilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greiven/myteam-profile/issues"
+  },
+  "homepage": "https://github.com/greiven/myteam-profile#readme"
 }
