@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Profile,Team, github, Greiven",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "greiven"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greiven"
+  },
+  "keywords": [
+    "Profile",
+    "Team",
+    "github",
+    "Greiven"
+  ],
+  "author": "Greivin Badilla",
+  "license": "ISC"
+}
